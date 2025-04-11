@@ -1,9 +1,5 @@
 <h1 align="center">Hi, I'm Kevin Barzola 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=440&lines=Full‑Stack+Developer;ReactJS+%7C+PostGIS+lover;Docker+automation+fan" alt="Typing SVG" />
-</p>
-
 ### 🚀 About me
 - 🔭 I’m currently working as a **Full‑Stack developer**
 - 🌱 Focused on **ReactJS** & **PostGIS**
