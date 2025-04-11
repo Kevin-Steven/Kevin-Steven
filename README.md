@@ -1,9 +1,9 @@
-<h1 align="center">Hi, I'm Kevin Barzola 👋</h1>
+<h1 align="center">Hola, Soy Kevin Barzola 👋</h1>
 
 ### 🚀 About me
-- 🔭 I’m currently working as a **Full‑Stack developer**
-- 🌱 Focused on **Angular**
-- 📫 Reach me: [luna.robertodev@gmail.com](mailto:luna.robertodev@gmail.com)
+- 🔭 Actualmente estoy trabajando como **Full‑Stack developer**
+- 🌱 Centrado en **PHP**
+- 📫 Contactarme: [kbarzolav.istjba@gmail.com](mailto:kbarzolav.istjba@gmail.com)
 
 ### ⚡ Technologies
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
