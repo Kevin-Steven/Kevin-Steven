@@ -2,8 +2,7 @@
 
 ### 🚀 About me
 - 🔭 I’m currently working as a **Full‑Stack developer**
-- 🌱 Focused on **ReactJS** & **PostGIS**
-- 🤝 I’m looking for help with **API integrations in Docker**
+- 🌱 Focused on **Angular**
 - 📫 Reach me: [luna.robertodev@gmail.com](mailto:luna.robertodev@gmail.com)
 
 ### ⚡ Technologies
