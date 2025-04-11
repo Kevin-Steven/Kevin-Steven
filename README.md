@@ -1,9 +1,9 @@
 <h1 align="center">Hola, Soy Kevin Barzola 👋</h1>
 
-### 🚀 Sobre mi
+### 🚀 Sobre mí 
 - 🔭 Actualmente estoy trabajando como **Full‑Stack developer**
 - 🌱 Centrado en **PHP**
-- 📫 Contactarme: [kbarzolav.istjba@gmail.com](mailto:kbarzolav.istjba@gmail.com)
+- 📫 Contáctame: [kbarzolav.istjba@gmail.com](mailto:kbarzolav.istjba@gmail.com)
 
 ### ⚡ Technologies
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
