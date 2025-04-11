@@ -1,9 +1,10 @@
-<h1 align="center">Hola, Soy Kevin Barzola 👋</h1>
+<h1 align="center">¡Hola! Soy Kevin Barzola 👋</h1>
 
 ### 🚀 Sobre mí 
-- 🔭 Actualmente estoy trabajando como **Full‑Stack developer**
-- 🌱 Centrado en **PHP**
-- 📫 Contáctame: [kbarzolav.istjba@gmail.com](mailto:kbarzolav.istjba@gmail.com)
+- 💻 Desarrollador **Full‑Stack**
+- 🌱 Actualmente enfocado en **PHP**
+- ✉️ ¿Hablamos? [kbarzolav.istjba@gmail.com](mailto:kbarzolav.istjba@gmail.com)
+
 
 ### ⚡ Tecnologías
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -20,3 +21,10 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KevinBarzola&show_icons=true&theme=radical" alt="Kevin's GitHub stats" />
+</p>
