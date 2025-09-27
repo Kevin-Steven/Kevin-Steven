@@ -1,11 +1,12 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kevin%20Barzola&fontSize=40&animation=fadeIn&fontAlignY=35)
 
-<h1 align="center">¡Hola! Soy Kevin Barzola 👋</h1>
-
-### 🚀 Sobre mí 
-- 💻 Desarrollador **Full‑Stack**
-- 🌱 Actualmente enfocado en **PHP**
-- ✉️ ¿Hablamos? [kbarzolav.istjba@gmail.com](mailto:kbarzolav.istjba@gmail.com)
+### 🚀 Sobre mí
+Soy un desarrollador **Full-Stack** con pasión por crear soluciones web escalables y elegantes.  
+- 🌱 Actualmente profundizando en **PHP y frameworks modernos**  
+- 💡 Interesado en **arquitectura de software** y buenas prácticas  
+- 🤝 Abierto a colaborar en proyectos **Open Source**  
+- 🎯 Objetivo: crecer como **arquitecto de software**  
+- ✉️ Contacto: [kbarzolav.istjba@gmail.com](mailto:kbarzolav.istjba@gmail.com)  
 
 
 ### ⚡ Tecnologías
