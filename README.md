@@ -1,7 +1,6 @@
 <!-- Encabezado con estilo -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kevin%20Barzola&fontSize=40&animation=fadeIn&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=%C2%A1Hola!%20Soy%20Kevin%20Barzola%20%F0%9F%91%8B&fontSize=35&animation=fadeIn&fontAlignY=35)
 
-<h1 align="center">¡Hola! Soy Kevin Barzola 👋</h1>
 
 ---
 
