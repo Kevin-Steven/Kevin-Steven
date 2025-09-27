@@ -1,7 +1,5 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=%C2%A1Hola!%20Soy%20Kevin%20Barzola%20%F0%9F%91%8B&fontSize=35&animation=fadeIn&fontAlignY=35)
 
----
-
 ### 🚀 Sobre mí  
 Soy un desarrollador **Full-Stack** con pasión por crear soluciones web escalables y elegantes.  
 
@@ -10,13 +8,6 @@ Soy un desarrollador **Full-Stack** con pasión por crear soluciones web escalab
 - 🤝 Abierto a colaborar en proyectos **Open Source**  
 - 🎯 Objetivo: crecer como **arquitecto de software**  
 - ✉️ Contacto: [kbarzolav.istjba@gmail.com](mailto:kbarzolav.istjba@gmail.com)  
-
----
-
-### 📌 Proyectos Destacados
-- 🛒 [E-commerce con PHP y MySQL](https://github.com/tuusuario/proyecto1)  
-- 📊 [Dashboard con Angular y Tailwind](https://github.com/tuusuario/proyecto2)  
-- 🤖 [Bot en Python para automatización](https://github.com/tuusuario/proyecto3)  
 
 ---
 
@@ -54,7 +45,3 @@ Soy un desarrollador **Full-Stack** con pasión por crear soluciones web escalab
 - 📚 Leer sobre ciencia ficción  
 - ☕ Fan del café mientras programo  
 
----
-
-<!-- Footer con estilo -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
