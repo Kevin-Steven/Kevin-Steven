@@ -35,8 +35,8 @@ Soy un desarrollador **Full-Stack** con pasión por crear soluciones web escalab
 ---
 
 ### 📊 GitHub Stats  
-![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=tokyonight)  
+![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kevin-Steven&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Steven&layout=compact&theme=tokyonight)  
 
 ---
 
