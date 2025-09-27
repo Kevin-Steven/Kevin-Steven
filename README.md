@@ -9,7 +9,6 @@ Soy un desarrollador **Full-Stack** con pasión por crear soluciones web escalab
 - 🎯 Objetivo: crecer como **arquitecto de software**  
 - ✉️ Contacto: [kbarzolav.istjba@gmail.com](mailto:kbarzolav.istjba@gmail.com)  
 
-<img src="https://komarev.com/ghpvc/?username=Kevin-Steven&style=flat-square&color=blue" alt=""/>
 ---
 
 ### ⚡ Tecnologías
