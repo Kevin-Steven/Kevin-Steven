@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=%C2%A1Hola!%20Soy%20Kevin%20Barzola%20%F0%9F%91%8B&fontSize=35&animation=fadeIn&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=%C2%A1Hi!%20I'm%20Kevin%20Barzola%20%F0%9F%91%8B&fontSize=35&animation=fadeIn&fontAlignY=35)
 
 ### 🚀 Sobre mí  
 Soy un desarrollador **Full-Stack** con pasión por crear soluciones web escalables y elegantes.  
