@@ -6,7 +6,13 @@ Soy un desarrollador **Full-Stack** con pasión por crear soluciones web escalab
 - 💡 Interesado en **arquitectura de software** y buenas prácticas  
 - 🤝 Abierto a colaborar en proyectos **Open Source**  
 - 🎯 Objetivo: crecer como **arquitecto de software**  
-- ✉️ Contacto: [kbarzolav.istjba@gmail.com](mailto:kbarzolav.istjba@gmail.com)  
+- ✉️ Contacto: [kbarzolav.istjba@gmail.com](mailto:kbarzolav.istjba@gmail.com)
+
+### 📌 Proyectos Destacados
+- 🛒 [E-commerce con PHP y MySQL](https://github.com/tuusuario/proyecto1)  
+- 📊 [Dashboard con Angular y Tailwind](https://github.com/tuusuario/proyecto2)  
+- 🤖 [Bot en Python para automatización](https://github.com/tuusuario/proyecto3)  
+
 
 
 ### ⚡ Tecnologías
@@ -23,3 +29,15 @@ Soy un desarrollador **Full-Stack** con pasión por crear soluciones web escalab
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+
+
+### 📊 GitHub Stats
+![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=tokyonight)
+
+
+### 🎨 Hobbies
+- 🎮 Videojuegos retro
+- 📚 Leer sobre ciencia ficción
+- ☕ Fan del café mientras programo
+
