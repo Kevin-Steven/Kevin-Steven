@@ -1,3 +1,5 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kevin%20Barzola&fontSize=40&animation=fadeIn&fontAlignY=35)
+
 <h1 align="center">¡Hola! Soy Kevin Barzola 👋</h1>
 
 ### 🚀 Sobre mí 
