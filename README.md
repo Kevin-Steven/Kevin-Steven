@@ -73,7 +73,7 @@ Soy un desarrollador **Full-Stack** con pasión por crear soluciones web escalab
 ---
 
 ### 🎨 Hobbies  
-- 🎮 Videojuegos retro  
-- 📚 Leer sobre ciencia ficción  
+- 🎮 Videojuegos competitivos  
+- 📚 Leer sobre crecimiento personal  
 - ☕ Fan del café mientras programo
 
