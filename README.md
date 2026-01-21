@@ -3,7 +3,7 @@
 ### 🚀 Sobre mí  
 Soy un desarrollador **Full-Stack** con pasión por crear soluciones web escalables y elegantes.  
 
-- 🌱 Actualmente profundizando en **PHP y frameworks modernos**  
+- 🌱 Actualmente profundizando en **Angular 21, tailwindcss y go**  
 - 💡 Interesado en **arquitectura de software** y buenas prácticas  
 - 🤝 Abierto a colaborar en proyectos **Open Source**  
 - 🎯 Objetivo: crecer como **arquitecto de software**  
